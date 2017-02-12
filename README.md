@@ -1,7 +1,7 @@
 # ALP-code
 
-This repository contains Adruino libraries used in sketches for both of our Controllino's and a few other sketches that we could use.
+This repository contains Adruino libraries and sketches used for both of our Controllino's. Address finder for the DS18B20 temperature sensors. And all the necessary files to run the current version of the ALP_GUI.exe (including the ALP_GUI.exe).
 
-* Copy the libraries into the path: "C:\... ...\Documents\Arduino\libraries" for them to work in the Arduino IDE.
+* Copy the Arduino libraries into the path: "C:\... ...\Documents\Arduino\libraries" for them to work in the Arduino IDE.
 
 * 1_wire_address_finder sketch is used to determined the addresses of each DS18B20 sensor.
