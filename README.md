@@ -5,3 +5,5 @@ This repository contains Adruino libraries and sketches used for both of our Con
 * Copy the Arduino libraries into the path: "C:\... ...\Documents\Arduino\libraries", so they work in the Arduino IDE.
 
 * 1_wire_address_finder sketch is used to determined the addresses of each DS18B20 sensor.
+
+![Alt text](/BBV0.4.png?raw=true "Game Screenshot")
