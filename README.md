@@ -6,4 +6,7 @@ This repository contains Adruino libraries and sketches used for both of our Con
 
 * 1_wire_address_finder sketch is used to determined the addresses of each DS18B20 sensor.
 
+
+Screenshot of the GUI:
+
 ![Alt text](/ALP%20GUI%20screenshot.png?raw=true "GUI Screenshot")
