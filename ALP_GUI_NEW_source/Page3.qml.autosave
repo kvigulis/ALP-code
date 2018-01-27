@@ -1,0 +1,16 @@
+import QtQuick 2.8
+
+import QtCharts 2.0
+import QtQuick.XmlListModel 2.0
+
+
+Page3Form {
+
+    line1.onClicked: {
+        line3.append(2, 2);
+    }
+    line2.onClicked: {
+        line3.append(5, 3);
+    }
+    
+}
